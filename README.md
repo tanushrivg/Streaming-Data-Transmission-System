@@ -4,7 +4,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Simulate a streaming data transmission system using C++ and NS-3
 - Model a UDP client-server architecture over a point-to-point network link
@@ -13,7 +13,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -26,7 +26,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 [ Sender Node ] ──── Point-to-Point Link ──── [ Receiver Node ]
@@ -44,7 +44,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## ⚙️ Key Parameters
+## Key Parameters
 
 | Parameter | Values Tested |
 |---|---|
@@ -56,7 +56,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Run | Data Rate | Packet Size | Interval | Avg Delay (s) | Avg Jitter (s) |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@ A network simulation project built using **C++** and **NS-3**, modeling a real-t
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Ubuntu 20.04 or later (native or VM)
@@ -128,7 +128,7 @@ streaming-data-transmission-ns3/
 
 ---
 
-## 📚 References
+## References
 
 1. Kurose & Ross — *Computer Networking: A Top-Down Approach*
 2. Tanenbaum — *Computer Networks*
